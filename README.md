@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @Smadum
 - 👀 I’m interested in learning programming :D
 - 🌱 I’m currently learning im trying to learn paython javascript c++ and LUA :)
-- 💞️ I’m looking to collaborate on im still new 
-- 📫 How to reach me add me on Discord smadum#0666 :)
-
-<!---
-Smadum/Smadum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- if you can give any advice into learning that will be amazing!! :D im still new to this and i really really want to learn it! 
+- add me on discord if you want to give me advice :) smadum#0666
